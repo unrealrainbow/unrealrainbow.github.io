@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://unrealrainbow1.github.io</id>
+    <id>https://unrealrainbow.github.io</id>
     <title>Gridea</title>
-    <updated>2020-10-24T03:30:39.878Z</updated>
+    <updated>2020-10-25T03:55:41.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://unrealrainbow1.github.io"/>
-    <link rel="self" href="https://unrealrainbow1.github.io/atom.xml"/>
+    <link rel="alternate" href="https://unrealrainbow.github.io"/>
+    <link rel="self" href="https://unrealrainbow.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://unrealrainbow1.github.io/images/avatar.png</logo>
-    <icon>https://unrealrainbow1.github.io/favicon.ico</icon>
+    <logo>https://unrealrainbow.github.io/images/avatar.png</logo>
+    <icon>https://unrealrainbow.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
 </feed>
