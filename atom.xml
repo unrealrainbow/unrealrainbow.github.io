@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://unrealrainbow.github.io</id>
     <title>Gridea</title>
-    <updated>2020-12-06T08:02:05.049Z</updated>
+    <updated>2020-12-06T08:03:12.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://unrealrainbow.github.io"/>
     <link rel="self" href="https://unrealrainbow.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://unrealrainbow.github.io/images/avatar.png</logo>
     <icon>https://unrealrainbow.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[显卡挖矿]]></title>
+        <id>https://unrealrainbow.github.io/post/xian-qia-wa-kuang/</id>
+        <link href="https://unrealrainbow.github.io/post/xian-qia-wa-kuang/">
+        </link>
+        <updated>2020-12-06T08:02:07.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>显卡挖矿可能大家没有听过，但比特币一定有所耳闻。</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[All blogs ]]></title>
         <id>https://unrealrainbow.github.io/post/all-blogs/</id>
